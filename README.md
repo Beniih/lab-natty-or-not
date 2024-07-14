@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar imagens naturais realistas, utilizando a IA para criar um prompt otimizado e entregar o prompt para outra IA. Esse processo comprovaria a eficácia das duas ferramentas trabalhando juntas, para uma futura integração de API's.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT: para otimizar o prompt
+- LeonardoAI: para cirar as imagens
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei ao chatGPTT um prompt bem otimizado para criar imagens realistas no LeonardoAI, então passei o prompt para o LeonardoAI que gerou as imagens.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<img src="[image.png](https://cdn.leonardo.ai/users/df8c0f66-d462-40a5-b434-cdc4c22e3bea/generations/dba0ebf9-ffe1-48be-977b-710a7c6873f2/Default_Crie_uma_imagem_realista_de_um_fisiculturista_natural_3.jpg)" width="200" height="200">
+
+<img src="[image.png](https://cdn.leonardo.ai/users/df8c0f66-d462-40a5-b434-cdc4c22e3bea/generations/20a1d758-cc5f-44ea-87fc-b2ce03be3452/Default_Crie_uma_imagem_extremamente_realista_de_turistas_em_u_3.jpg)" width="200" height="200">
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O chatGPT é muito eficaz em gerar prompts, e com uma ferramente de geração de imagens para receber os prompts seria tão fácil quando pedir a criação de uma imagem, ao invés de criar um prompt detalhado manualmente.
